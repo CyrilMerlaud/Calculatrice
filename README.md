@@ -1,0 +1,2 @@
+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
+git remote set-url origin https://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@github.com/CyrilMerlaud/Calculatrice.git
